@@ -158,7 +158,7 @@ contact: sarthakagarkar8@gmail.com
 
 ## 🎵 Spotify — Now Playing
 
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_USERNAME)
+[![Spotify](https://novatorem-hwnli5kau-sarthaknitinagarkar-3161s-projects.vercel.app/api/spotify)](https://open.spotify.com/)
 
 > **⚙️ Setup:** Deploy [novatorem/novatorem](https://github.com/novatorem/novatorem) to Vercel, then replace the URL above with your deployed URL.
 
